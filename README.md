@@ -2,7 +2,6 @@
 
 **Backend & AI Developer** — I build production-grade APIs, NLP pipelines, and full-stack apps that actually ship.
 
-Currently at **MPOnline Limited** (Govt. of Madhya Pradesh) building FastAPI backends for AI chatbot and grievance management systems used in real government workflows.
 
 ---
 
