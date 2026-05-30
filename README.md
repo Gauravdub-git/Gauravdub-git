@@ -1,24 +1,72 @@
-# 💫 About Me:
-I’m a Computer Science graduate currently working as a Software Development Intern at MPOnline, where I’m gaining hands-on experience building and improving real-world software systems. I enjoy working on full-stack web applications and experimenting with AI-powered tools. I’ve worked with technologies like C++, Python, JavaScript, React, and the MERN stack, and I’m particularly interested in building intelligent systems and practical AI applications. Right now, I’m focused on strengthening my fundamentals in Data Structures and Algorithms, backend development, and real-world software engineering practices. I’m always open to collaborating on interesting tech projects, especially in AI, automation, and scalable web applications. Fun fact: I love turning random ideas into working tech projects and I’m especially fascinated by the future of AI, AGI, and robotics.
+# Hi, I'm Gaurav Dubey 👋
 
+**Backend & AI Developer** — I build production-grade APIs, NLP pipelines, and full-stack apps that actually ship.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubey.gauravv@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gauravdub-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gauravdub-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdub-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gauravdub-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently at **MPOnline Limited** (Govt. of Madhya Pradesh) building FastAPI backends for AI chatbot and grievance management systems used in real government workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gauravdub-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Build
+
+- **AI/NLP systems** — document processing, text chunking, knowledge base pipelines, intelligent query handling
+- **REST APIs** — FastAPI, Node.js, JWT auth, SQL/MongoDB, tested with Postman
+- **Full-stack apps** — React + MERN stack, from concept to deployment
+- **ML models** — CNNs for image classification, disease prediction with Scikit-learn & TensorFlow
+
+---
+
+## 🔨 Featured Projects
+
+### 🥔 [Potato Disease Classifier](https://github.com/Gauravdub-git/Potato-disease-classification)
+CNN-based leaf disease detection using TensorFlow. Trained on plant village dataset, deployed via FastAPI + Streamlit for real-time predictions.
+`Python` `TensorFlow` `FastAPI` `Streamlit` `CNN`
+
+### 🏥 [Doctor Appointment System](https://github.com/Gauravdub-git/Doctor_Appointment_System)
+Full-stack booking platform with role-based dashboards (doctor/patient), JWT authentication, and MongoDB scheduling workflows.
+`React.js` `Node.js` `MongoDB` `Express` `JWT`
+
+### 🎙️ [Audio2Text](https://github.com/Gauravdub-git/Audio2Text)
+Live microphone transcription with a modern customtkinter GUI. Captures audio, transcribes in real time, saves to file.
+`Python` `SpeechRecognition` `customtkinter`
+
+### 📊 [Disease Outbreak Predictor](https://github.com/Gauravdub-git/Prediction-of-Disease-Outbreaks-)
+ML pipeline using Logistic Regression, SVM, and Decision Trees for disease prediction. Built with Streamlit for real-time health risk assessment.
+`Python` `Scikit-learn` `Streamlit` `Pandas`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · JavaScript · TypeScript  
+**Backend:** FastAPI · Node.js · Express · REST APIs · JWT  
+**Frontend:** React.js · Vite · Tailwind CSS  
+**ML/AI:** TensorFlow · Scikit-learn · NLTK · Sentence Transformers  
+**Databases:** MongoDB · MySQL · SQL  
+**Tools:** Git · Docker · Postman · VS Code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauravdub-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdub-git&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165"/>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gauravdub-git&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🌱 Currently Working On
+
+- Building AI-powered backend systems at MPOnline (FastAPI + NLP pipelines)
+- Deepening DSA skills for technical interviews
+- Exploring algorithmic approaches for data-intensive applications
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Dubey-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Email](https://img.shields.io/badge/Email-dubey.gauravv%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dubey.gauravv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel)](https://gauravdub-git.github.io/Portfolio)
